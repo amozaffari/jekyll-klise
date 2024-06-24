@@ -31,24 +31,12 @@ BSc in Mining Engineering - Amirkabir University (2007 - 2011)
 ## Connect with Me
 
 <div class="social-links">
-  <a href="https://twitter.com/apmozaffari"></i> Twitter 🐦 </a>
-  <a hef="https://www.linkedin.com/in/amirpasha-mozaffari/"></i> LinkedIn 🏢 </a>
-  <a href="https://www.researchgate.net/profile/Amirpasha-Mozaffari"></i> ResearchGate 🧪 </a>
-  <a href="https://orcid.org/0000-0001-6719-0425"></i> ORCiD 🆔 </a>
-  <a href="https://github.com/amozaffari"></i> GitHub 🐱 </a>
-  <a href="https://scholar.google.com/citations?user=U0LFGpMAAAAJ&hl=en"></i> Google Schoolar 🎓 </a>
-  <a href="https://www.goodreads.com/user/show/4227609-amirpasha-mozaffari"></i> Goodreads 📚 </a>
+  <a href="https://twitter.com/apmozaffari"> Twitter 🐦 </a>
+  <a hef="https://www.linkedin.com/in/amirpasha-mozaffari/"> LinkedIn 🏢 </a>
+  <a href="https://www.researchgate.net/profile/Amirpasha-Mozaffari"> ResearchGate 🧪 </a>
+  <a href="https://orcid.org/0000-0001-6719-0425"> ORCiD 🆔 </a>
+  <a href="https://github.com/amozaffari"> GitHub 🐱 </a>
+  <a href="https://scholar.google.com/citations?user=U0LFGpMAAAAJ&hl=en"> Google Schoolar 🎓 </a>
+  <a href="https://www.goodreads.com/user/show/4227609-amirpasha-mozaffari"> Goodreads 📚 </a>
 
 </div>
-
-<style>
-  .social-links a {
-    display: inline-block;
-    margin-right: 10px;
-    text-decoration: none;
-    color: #000;
-  }
-  .social-links a i {
-    margin-right: 5px;
-  }
-</style>

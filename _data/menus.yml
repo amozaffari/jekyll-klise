@@ -2,14 +2,14 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
-
 - title: about
   url: /about/
-  external: false # set true if you using external link, see below
+  external: false 
 
 - title: cv
   url: https://github.com/amozaffari/Files/blob/master/amirpasha_academic_CV_june_2023.pdf
   external: true
+
+- title: archive
+  url: /archive/
+  external: false
