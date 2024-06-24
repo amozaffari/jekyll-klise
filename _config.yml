@@ -12,11 +12,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: amirpasha mozaffari # author name
   bio: |
-    Hi! I'm Amirpasha, a geoscience researcher 🌍 with a passion for machine learning 👾
-    and high-performance computing. Currently, I am working at the Barcelona 
-    Supercomputing Center, focusing on improving climate scenarios and projections. 
-    At the same time, I am keeping pace with the fast-paced developments in 
-    machine learning ✨! 
+    Hi! I am amirpasha, a geoscience researcher with an interest in climate 🌍 and machine learning 👾, currently residing in Barcelona. 
+    In this space, I will share my daily experiences with climate science, machine learning, and various non-scientific topics that interest me.
+
+
   username:  # general username
   github: amozaffari # github username
   twitter: apmozaffari # twitter username
