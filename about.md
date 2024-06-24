@@ -15,17 +15,17 @@ Nowadays, I am interested in explainable machine learning 🔍 and its applicati
 
 ## Professional Experience
 
-Research Engineer - Barcelona Supercomputing Center (BSC) (2023 - present)
-Team Leader: Workflow and Open Science - Jülich Supercomputing Centre (JSC) (2022-2023)
-Data and Workflow Manager - Jülich Supercomputing Centre (JSC) (2019-2022)
-Research Assistant - Agrosphäre (IBG-3) Jülich Research Centre (2015 - 2019)
-Student Assistant - Agrosphäre (IBG-3) Jülich Research Centre (2014)
+- Research Engineer - Barcelona Supercomputing Center (BSC) (2023 - present)
+- Team Leader: Workflow and Open Science - Jülich Supercomputing Centre (JSC) (2022-2023)
+- Data and Workflow Manager - Jülich Supercomputing Centre (JSC) (2019-2022)
+- Research Assistant - Agrosphäre (IBG-3) Jülich Research Centre (2015 - 2019)
+- Student Assistant - Agrosphäre (IBG-3) Jülich Research Centre (2014)
 
 ## Education
 
-PhD in Computational Geosciences - RWTH Aachen (2015 - 2022)
-MSc in Water Resource Engineering - Stuttgart University (2011-2014)
-BSc in Mining Engineering - Amirkabir University (2007 - 2011)
+- PhD in Computational Geosciences - RWTH Aachen (2015 - 2022)
+- MSc in Water Resource Engineering - Stuttgart University (2011-2014)
+- BSc in Mining Engineering - Amirkabir University (2007 - 2011)
 
 
 ## Connect with Me
