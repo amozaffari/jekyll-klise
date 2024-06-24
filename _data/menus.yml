@@ -10,7 +10,11 @@
   url: /about/
   external: false # set true if you using external link, see below
 
+- title: resume
+  url: /resume/
+  external: false # set true if you using external link, see below
+
 # Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+- title: cv
+  url: https://github.com/amozaffari/Files/blob/master/amirpasha_academic_CV_june_2023.pdf
+  external: true
