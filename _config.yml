@@ -11,14 +11,18 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: amirpasha mozaffari # author name
-  bio: >- # tell to the world
-    hey there! I am amirpasha, earth researcher and curios about the world.
+  bio: |
+    Hi! I'm Amirpasha, a geoscience researcher 🌍 with a passion for machine learning 👾
+    and high-performance computing. Currently, I am working at the Barcelona 
+    Supercomputing Center, focusing on improving climate scenarios and projections. 
+    At the same time, I am keeping pace with the fast-paced developments in 
+    machine learning ✨! 
   username:  # general username
   github: amozaffari # github username
   twitter: apmozaffari # twitter username
-  facebook: facebook_username # facebook username
-  email: amirpasha.mozaffari@email.com # email adress
-  avatar: /assets/img/amirpasha-avatar.png # change with your own avatar
+  email: amirpasha.mozaffari@gmail.com # email address
+  avatar: /assets/img/amirpasha-avatar.png # change with your
+
 
 # URL settings
 url: "https://amirpasha.netlify.app/" #
