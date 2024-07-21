@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List of mz favourite tools"
+title:  "List of my favourite tools"
 date:   2024-07-21 09:29:20 +0700
 categories: updates
 usemathjax: true
