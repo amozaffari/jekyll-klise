@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hacker principles"
-date:   2024-07-28 09:29:20 +0700
+date:   2024-07-22 09:29:20 +0700
 categories: updates
 usemathjax: true
 ---
