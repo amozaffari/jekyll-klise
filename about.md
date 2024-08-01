@@ -27,12 +27,12 @@ Nowadays, I am interested in explainable machine learning 🔍 and its applicati
 ## Connect with Me
 
 <div class="social-links">
-*  <a href="https://twitter.com/apmozaffari"> Twitter 🐦 </a>
-*  <a hef="https://www.linkedin.com/in/amirpasha-mozaffari/"> LinkedIn 🏢 </a>
-*  <a href="https://www.researchgate.net/profile/Amirpasha-Mozaffari"> ResearchGate 🧪 </a>
-*  <a href="https://orcid.org/0000-0001-6719-0425"> ORCiD 🆔 </a>
-*  <a href="https://github.com/amozaffari"> GitHub 🐱 </a>
-*  <a href="https://scholar.google.com/citations?user=U0LFGpMAAAAJ&hl=en"> Google Schoolar 🎓 </a>
-*  <a href="https://www.goodreads.com/user/show/4227609-amirpasha-mozaffari"> Goodreads 📚 </a>
+  <a href="https://twitter.com/apmozaffari"> Twitter 🐦 </a>
+  <a hef="https://www.linkedin.com/in/amirpasha-mozaffari/"> LinkedIn 🏢 </a>
+  <a href="https://www.researchgate.net/profile/Amirpasha-Mozaffari"> ResearchGate 🧪 </a>
+  <a href="https://orcid.org/0000-0001-6719-0425"> ORCiD 🆔 </a>
+  <a href="https://github.com/amozaffari"> GitHub 🐱 </a>
+  <a href="https://scholar.google.com/citations?user=U0LFGpMAAAAJ&hl=en"> Google Schoolar 🎓 </a>
+ <a href="https://www.goodreads.com/user/show/4227609-amirpasha-mozaffari"> Goodreads 📚 </a>
 
 </div>
