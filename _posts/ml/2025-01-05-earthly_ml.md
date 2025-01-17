@@ -11,7 +11,17 @@ usemathjax: true
 
 Introducing the AI-Generated **Earthly Machine Learning** Podcast
 
-![Earthly Machine Learning Podcast Cover](assets/img/posts/EML.png)
+<div style="text-align: center; margin: 20px 0;">
+    <iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/show/0lTrPDrL7p3TgXwkmVqkQh?utm_source=generator" 
+            width="100%" 
+            height="300" 
+            frameborder="0" 
+            allowfullscreen 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+    </iframe>
+</div>
 
 I’m excited to announce the launch of Earthly Machine Learning (EML), a podcast created using Google’s NotebookLM! Now live on Spotify and Apple Podcasts, this AI-generated series delivers concise summaries of the latest papers on machine learning applications in weather, climate, and Earth sciences.
 
