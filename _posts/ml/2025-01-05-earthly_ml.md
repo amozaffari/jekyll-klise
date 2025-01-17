@@ -31,6 +31,6 @@ With AI at the core, EML provides an innovative way to stay informed about cutti
     [Spotify](https://open.spotify.com/show/0lTrPDrL7p3TgXwkmVqkQh)
     [Apple Podcasts](https://podcasts.apple.com/us/podcast/earthly-machine-learning/id1789926996)
 
-The list of current and future papers is available in the GitHub repository. (https://lnkd.in/dXJXDQd8)
+The list of current and future papers is available in the [GitHub repository](https://github.com/amozaffari/Earthly-Machine-Learning/tree/main).
 
 Check it out and let me know what papers you’d like covered next!
