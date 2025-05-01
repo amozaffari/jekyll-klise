@@ -7,23 +7,6 @@ usemathjax: true
 ---
 
 
-## Earthly Machine Learning
-
-Introducing the AI-Generated **Earthly Machine Learning** Podcast
-
-<div style="text-align: center; margin: 20px 0;">
-    <iframe style="border-radius:12px" 
-            src="https://open.spotify.com/embed/show/0lTrPDrL7p3TgXwkmVqkQh?utm_source=generator" 
-            width="100%" 
-            height="300" 
-            frameborder="0" 
-            allowfullscreen 
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-            loading="lazy">
-    </iframe>
-</div>
-
-
 ## Two Diverging Futures for AI
 
 Last month, two major publications were released discussing the future of our species, our role on this planet, and our relationship with AI. One is the now-famous *AI 2027* paper by Kokotajlo et al., which explores the uncontrollable acceleration expected in the coming years due to breakthroughs in AI-driven coding. This, they argue, could lead to the emergence of superhuman AI researchers who significantly speed up progress—potentially taking us to an unsettling future[^1].
