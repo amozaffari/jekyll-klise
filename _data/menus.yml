@@ -7,8 +7,12 @@
   external: false 
 
 - title: cv
-  url: https://drive.google.com/file/d/12tEQRn07-MMtzX_EGFVxM44iopzbuLy6/view?usp=sharing
+  url: https://drive.google.com/file/d/1MhvCSkKd-bwloaDrP6a-EtwKtsB-IAoU/view?usp=sharing
   external: true
+
+- title: earthly machine learning
+  url: /earthly_ml/
+  external: false
 
 - title: archive
   url: /archive/
