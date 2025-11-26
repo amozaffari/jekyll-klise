@@ -28,7 +28,7 @@ I’m excited to announce the launch of Earthly Machine Learning (EML), a podcas
 With AI at the core, EML provides an innovative way to stay informed about cutting-edge research, helping you explore how machine learning is shaping our understanding of the planet.
 
 📍 Listen now:
-    [Spotify](https://open.spotify.com/show/0lTrPDrL7p3TgXwkmVqkQh)
+    [Spotify](https://open.spotify.com/show/0lTrPDrL7p3TgXwkmVqkQh) or 
     [Apple Podcasts](https://podcasts.apple.com/us/podcast/earthly-machine-learning/id1789926996)
 
 The list of current and future papers is available in the [GitHub repository](https://github.com/amozaffari/Earthly-Machine-Learning/tree/main).
