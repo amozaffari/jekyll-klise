@@ -14,7 +14,9 @@ comments: false
 
 ---
 
-Welcome! I'm a geoscience researcher at the [Barcelona Supercomputing Center](https://www.bsc.es/) where I focus on enhancing climate scenarios using the latest in **machine learning** ✨. My research dives into **explainable machine learning** 🔍 and its potential in climate and weather modeling 🌦️. I also champion **FAIR** and **reproducible science** to make research transparent, accessible, and impactful.
+Welcome! I’m a geoscience researcher at the [Barcelona Supercomputing Center](https://www.bsc.es/), exploring the intersection of **AI and climate science** ✨.
+
+My work focuses on modeling **land surface processes** 🌱 by applying tools like **computer vision** and **foundation models**. I am also deeply committed to **FAIR** and **reproducible science**, striving to make research transparent, accessible, and useful for the community.
 
 ---
 
@@ -40,6 +42,12 @@ Welcome! I'm a geoscience researcher at the [Barcelona Supercomputing Center](ht
 | **BSc in Mining Engineering**          | [Amirkabir University of Technology](https://aut.ac.ir/en)                                                              | 2007 - 2011       |
 
 ---
+
+## 🤝 Let's Collaborate
+
+I am always happy to discuss new ideas and potential collaborations. If you are interested in **ML/AI applications in climate and weather**, whether for a research partnership, a research stay, an internship, BSc. or MSc. thesis, or PhD opportunity within the **BSC Earth Sciences Department**—please feel free to reach out via the links below!
+
+📧 **Email:** `amirpasha.mozaffari [at] bsc [dot] es`
 
 ## 🌐 Connect with Me
 
