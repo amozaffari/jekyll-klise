@@ -11,8 +11,8 @@
   external: true
 
 - title: earthly machine learning
-  url: /earthly_ml/
-  external: false
+  url: https://amozaffari.github.io/Earthly-Machine-Learning/
+  external: true
 
 - title: archive
   url: /archive/
