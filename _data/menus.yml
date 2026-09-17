@@ -7,7 +7,7 @@
   external: false 
 
 - title: cv
-  url: https://drive.google.com/file/d/1MhvCSkKd-bwloaDrP6a-EtwKtsB-IAoU/view?usp=sharing
+  url: /cv
   external: true
 
 - title: earthly machine learning

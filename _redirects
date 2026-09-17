@@ -1,0 +1,7 @@
+# Permanent public URL for the CV: https://amirpasha.me/cv
+# A 200 rewrite (not a 301/302) so the address bar keeps showing /cv
+# instead of jumping to the asset path. To publish a new CV, replace
+# assets/cv.pdf and commit -- the shared URL never changes.
+/cv      /assets/cv.pdf   200
+/cv/     /assets/cv.pdf   200
+/cv.pdf  /assets/cv.pdf   200
